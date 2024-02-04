@@ -1,0 +1,8 @@
+﻿  main.cpp
+  menu.cpp
+C:\Users\Think\Desktop\111\menu.cpp(6,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  operations.cpp
+  read.cpp
+  正在生成代码...
+C:\Users\Think\Desktop\111\operations.cpp(391): warning C4715: “exchange”: 不是所有的控件路径都返回值
+  个人账本管理系统.vcxproj -> C:\Users\Think\Desktop\个人账本管理系统\x64\Debug\个人账本管理系统.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+  menu.cpp
+D:\edge下载\2023013514_高聪\个人账本管理系统\menu.cpp(8,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  operations.cpp
+  read.cpp
+D:\edge下载\2023013514_高聪\个人账本管理系统\read.cpp(40,16): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\edge下载\2023013514_高聪\个人账本管理系统\operations.cpp(389): warning C4715: “exchange”: 不是所有的控件路径都返回值
+  LINK : 没有找到 D:\edge下载\2023013514_高聪\个人账本管理系统\Debug\个人账本管理系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+  个人账本管理系统.vcxproj -> D:\edge下载\2023013514_高聪\个人账本管理系统\Debug\个人账本管理系统.exe
